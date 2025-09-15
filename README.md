@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Voice-Detection Message Communicator<br>👯 I’m looking to collaborate on Interactive Websites and Computer Vision Based Projects<br>🤝 I’m looking for help with Graphic Designing<br>🌱 I’m currently learning Docker and C#<br>💬 Ask me about Anything<br>⚡ Fun fact : Computer Technology is still my passion
+👯 I’m looking to collaborate on Interactive Websites and Computer Vision Based Projects<br>🤝 I’m looking for help with Graphic Designing<br>🌱 I’m currently learning Docker and C#<br>💬 Ask me about Anything<br>⚡ Fun fact : Computer Technology is still my passion
 
 
 ## 🌐 Socials:
